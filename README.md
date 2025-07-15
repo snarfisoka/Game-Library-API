@@ -107,14 +107,19 @@ Delete Game:
 DELETE /api/games/:id
 Headers: Authorization: Bearer <token>
 
+---
+
 ## Swagger API Docs
 After starting the server, view the full API documentation:
 URL: http://localhost:5000/api-docs
+
+---
 
 ## Run Tests
 Make sure MongoDB is running or accessible. Then run:
 npm test
 
+---
 
 ## Folder Structure
 FransJosef_Santos_BackendDeveloper_GameLibraryExam/
